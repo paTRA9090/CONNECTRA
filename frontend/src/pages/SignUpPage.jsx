@@ -28,7 +28,7 @@ const SignUpPage = () => {
         <div className='mb-4 flex items-center justify-start gap-3'>
           <ShipWheelIcon className="size-9 text-primary" />
           <span className='text-3xl font-bold font-mono bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary tracking-wider'>
-            Streamify
+            Connectra
           </span>
         </div>
 
@@ -44,7 +44,7 @@ const SignUpPage = () => {
             <div className='space-y-1'>
               <h2 className='text-xl font-semibold'>Create an Account</h2>
               <p className='text-sm opacity-70'>
-                Join Streamify and Start your language learning adventure!
+                Join Connectra and Start your language learning adventure!
               </p>
             </div>
 
